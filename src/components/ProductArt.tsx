@@ -32,7 +32,7 @@ export function LogitechArt({ className = "" }: { className?: string }) {
   return (
     <img
       className={className}
-      src="/img/logitech-g-pro-x-wireless.png"
+      src="/img/logitech-g-pro-x-wireless.webp"
       alt="Logitech G Pro X Wireless headset"
       width={800}
       height={800}
