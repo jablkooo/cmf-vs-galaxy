@@ -21,7 +21,7 @@ export function Nav() {
       <nav className="nav" role="navigation" aria-label="Hlavní navigace">
         <div className="nav-inner">
           <Link to="/" className="nav-logo">
-            CMF × Samsung
+            CMF × Samsung × Logitech
           </Link>
 
           <ul className="nav-links" role="list">

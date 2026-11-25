@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer className="footer">
       <div className="footer-inner">
-        <p className="footer-label">[ CMF BUDS PRO 2 × SAMSUNG GALAXY BUDS LIVE ]</p>
+        <p className="footer-label">[ CMF BUDS PRO 2 × SAMSUNG GALAXY BUDS LIVE × LOGITECH G PRO X WIRELESS ]</p>
         <p className="footer-note">
           Interaktivní průvodce. Data z veřejných specifikací a recenzí.
           Web není sponzorovaný žádnou značkou.
@@ -28,6 +28,15 @@ export function Footer() {
             style={{ color: "var(--interactive)" }}
           >
             smarty.cz / Galaxy Buds Live ↗
+          </a>
+          <a
+            href="https://www.logitechg.com/en-us/shop/p/pro-x-wireless-headset"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="footer-label"
+            style={{ color: "var(--text-display)" }}
+          >
+            logitechg.com / G Pro X Wireless ↗
           </a>
         </div>
       </div>
